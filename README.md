@@ -20,13 +20,19 @@
  <p>📫 How to reach me? <a href="khileshsingh5678@gmail.com">khileshsingh5678@gmail.com</a></p> 
  <p>All of my projects are available at <a href="https://github.com/khilesh-Igtm?tab=repositories">My Repositories</a></p> 
  <p>⚡ Fun Fact: I love Psychology</p> 
-  
- ## 💻 Skills 
+                                                                                                  
+## 💻 Skills 
  <p> 
  <img src="https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=Python&logoColor=white" style="margin-bottom: 4px;" height="30px"> 
- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=Java&logoColor=white" style="margin-bottom: 4px;" height="30px"> 
- <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=Javascript&logoColor=white" style="margin-bottom: 4px;" height="30px"> 
- <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=PHP&logoColor=white" style="margin-bottom: 4px;" height="30px"> 
+ <img src="https://img.shields.io/badge/Java-%23E34F26.svg?style=for-the-badge&logo=Java&logoColor=white" style="margin-bottom: 4px;" height="30px"> 
+ <img src="https://img.shields.io/badge/Javascript-%231572B6.svg?style=for-the-badge&logo=Javascript&logoColor=white" style="margin-bottom: 4px;" height="30px"> 
+ <img src="https://img.shields.io/badge/PHP-%23563D7C.svg?style=for-the-badge&logo=PHP&logoColor=white" style="margin-bottom: 4px;" height="30px"> 
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px"> 
- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=SQL&logoColor=black" style="margin-bottom: 4px;" height="30px"> 
+ <img src="https://img.shields.io/badge/SQL-FCC624?style=for-the-badge&logo=SQL&logoColor=black" style="margin-bottom: 4px;" height="30px"> 
  </p> 
+  
+  
+  Tools 
+   
+ <img alt="Ubuntu" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/Ubuntu.svg"/>|<img alt="Git" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/Git.svg"/>|<img alt="VSCode" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/VSCode.svg"/>|<img alt="Atom" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/Atom.svg"/>|<img alt="WordPress" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/WP.svg"/> 
+  |--|--|--|--|--|
