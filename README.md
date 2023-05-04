@@ -36,3 +36,21 @@
    
  <img alt="Ubuntu" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/Ubuntu.svg"/>|<img alt="Git" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/Git.svg"/>|<img alt="VSCode" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/VSCode.svg"/>|<img alt="Atom" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/Atom.svg"/>|<img alt="WordPress" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/WP.svg"/> 
   |--|--|--|--|--|
+  
+  
+  
+## 🌟 Github Badges
+<p>
+
+</p>
+
+
+## 📊 Github Status
+
+<p><img src="https://metrics.lecoq.io/khilesh-Igtm"><p>
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=khilesh-Igtm"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=khilesh-Igtm&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"><p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=khilesh-Igtm"><p>
