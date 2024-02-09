@@ -15,11 +15,11 @@
  </p> 
   
  ## 💫 Little Bit More About Me 
- <p>🌱 I'm currently learning Cloud Computing</p> 
- <p>💬 Ask me about Web development, Graphic Design</p> 
+ <p>🌱 I'm currently learning Full-Stack Development</p> 
+ <p>💬 Ask me about Web Development</p> 
  <p>📫 How to reach me? <a href="khileshsingh5678@gmail.com">khileshsingh5678@gmail.com</a></p> 
  <p>All of my projects are available at <a href="https://github.com/khilesh-Igtm?tab=repositories">My Repositories</a></p> 
- <p>⚡ Fun Fact: I love Psychology</p> 
+ <p>⚡ Fun Fact: I love to study Human Psychology</p> 
                                                                                                   
 ## 💻 Skills 
  <p> 
